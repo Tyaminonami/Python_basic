@@ -1,3 +1,5 @@
+#Для запуска этого докер файла, введите в командную строку
+
 FROM python:3.11.3-bullseye
 
 ENV PYTHONUNBUFFERED=1
